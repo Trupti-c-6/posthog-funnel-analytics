@@ -1,0 +1,1 @@
+Built 7 PostgreSQL funnel analytics workflows for sequential event tracking. Used CTEs, EXISTS, timestamp comparisons, joins, JSON extraction, identity resolution and deduplication. Reduced query latency from 2–10 seconds to under 200 ms.
